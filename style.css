@@ -170,6 +170,7 @@ nav .fa{
 
 .main{
     display:flex;
+    
     /* border:1px solid red; */
     height: calc(100vh - 100px);
     align-items:center;
